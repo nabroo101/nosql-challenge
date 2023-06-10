@@ -1,1 +1,2 @@
 # nosql-challenge
+#Refrence https://stackoverflow.com/questions/4973095/how-to-change-the-type-of-a-field , https://www.mongodb.com/docs/manual/reference/operator/aggregation/convert/?_ga=2.177953381.1797965468.1686169586-257113580.1685574371#std-label-convert-to-int to change type
